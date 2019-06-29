@@ -6,7 +6,7 @@ body{
     background-color: #b7b7b7;
     background-repeat: repeat-x;
     background-position: top;
-    background-image: url(https://github.com/OfficeModern/project1-css-js/blob/master/bg_tile.jpg?raw=true);    
+    background-image: url('https://github.com/OfficeModern/project1-css-js/blob/master/bg_tile.jpg?raw=true');    
 }
 
 *, *:before, *:after {
